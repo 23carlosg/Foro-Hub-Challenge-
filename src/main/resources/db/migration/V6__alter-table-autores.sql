@@ -1,0 +1,1 @@
+ALTER TABLE autores MODIFY COLUMN contrasena VARCHAR(255);
